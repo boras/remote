@@ -1,0 +1,37 @@
+ON/OFF	0x00ff50af
+TV/PC	0x00ff30cf
+V+		0x00ff40bf
+V-		0x00ffc03f
+Mute		0x00ffb847
+MENU	0x00ff38c7
+9		0x00ff9867
+0		0x00ff08f7
+1		0x00ff8877
+2		0x00ff48b7
+3		0x00ffc837
+4		0x00ff28d7
+5		0x00ffa857
+6		0x00ff6897
+7		0x00ffe817
+8		0x00ff18e7
+P+		0x00ff00ff
+P-		0x00ff807f
+Backward(-/--)	0x00ff58a7
+Forward(-/--)	0x00ffd827
+OK			0x00fff807
+reserved
+reserved
+Back			0x00ffa05f
+Pause/Play	0x00ffe01f
+Video		0x00ff906f
+Music		0x00ff20df
+Internet		0x00ff10ef
+News		0x00fff00f
+Weather		0x00ffd02f
+Hotel info		0x00ff609f
+Help			0x00ff02fd
+Clock 		0x00ff708f
+Wake up		0x00ff7887
+reserved
+reserved
+reserved
