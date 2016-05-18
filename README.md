@@ -49,7 +49,7 @@ MCU side) and Atil Koprucu (hardware engineer) and implemented CPU side of it.
 
 This repository only includes the CPU part of the design.
 
-i2c.[c\h] -> user space utility
-remote.[c\h] -> remote controller linux kernel driver (written for 2.6.11)
-panel* -> Codes of keys for 'TV / panel'
+i2c.[c\h]: user space utility
+remote.[c\h]: remote controller linux kernel driver (written for 2.6.11)
+panel*: Codes of keys for 'TV / panel'
 
